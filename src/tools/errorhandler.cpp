@@ -7,6 +7,8 @@
 // #include <string.h>     // for memset()
 //#include <backward/iostream.h>	// fuer cout()
 
+#include <pthread.h>
+
 #include "errorhandler.hpp"
 #include "Time.hpp"
 
